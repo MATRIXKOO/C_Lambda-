@@ -127,7 +127,7 @@ public:
 
 	void operator()(int_L int_data)
 	{
-		this->
+		
 	}
 
 	void operator()(_value_<char_L> var_char)
