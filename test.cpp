@@ -13,9 +13,7 @@ void Lambda()
 	(
 	[]
 	{
-		V_(char_L, test, 'c');
-
-		Fuc::Exprt( test() , "%c");
+			Fuc::Exprt("hello", "%s");
 	}
 	___;
 
