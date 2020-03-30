@@ -98,6 +98,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="currying.cpp" />
     <ClCompile Include="MemoryPool.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="Type.cpp" />

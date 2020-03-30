@@ -24,6 +24,9 @@
     <ClCompile Include="Type.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="currying.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C_Lambda++.h">

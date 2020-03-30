@@ -5,7 +5,7 @@
 //
 //
 //union SOMEUNION {
-//	
+//
 //};
 //
 //typedef SOMEUNION *P_UNION;
